@@ -1,6 +1,8 @@
 # My favourite YouTube channels
 
-This list contains most of the YouTube channels that I really, really like. Channels where I watch(ed) almost every video. Most are very well produced and contain a lot of great knowledge. Do not hesitate to suggest some other channels that I might like.
+This list contains most of the YouTube channels that I really, really like. Channels where I watch(ed) almost every video. Most are very well produced and contain a lot of great knowledge. I can highly recommend them to everyone!
+<br>
+Do not hesitate to suggest some other channels that I might like.
 
 Somewhat sorted by those I like most (all are great though!).
 
