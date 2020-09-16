@@ -17,7 +17,6 @@ Somewhat sorted by those I like most (all are great though!).
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
 - [Veritasium](https://www.youtube.com/c/veritasium)
 - [iluli by Mike Lamb](https://www.youtube.com/c/ilulibyMikeLamb)
-- [Technology Connections](https://www.youtube.com/c/TechnologyConnections)
 - [Nerdwriter1](https://www.youtube.com/user/Nerdwriter1)
 - [Coffee Break](https://www.youtube.com/c/CoffeeBreaks)
 - [SmarterEveryDay](https://www.youtube.com/c/smartereveryday)
@@ -27,8 +26,15 @@ Somewhat sorted by those I like most (all are great though!).
 
 - [Stuff Made Here](https://www.youtube.com/c/StuffMadeHere)
 - [Michael Reeves](https://www.youtube.com/c/MichaelReeves)
+- [Simone Giertz](https://www.youtube.com/c/simonegiertz/)
 - [DIY Perks](https://www.youtube.com/c/DIYPerks)
 - [colinfurze](https://www.youtube.com/c/colinfurze)
+
+## Technology
+
+- [Technology Connections](https://www.youtube.com/c/TechnologyConnections)
+- [Snazzy Labs](https://www.youtube.com/user/ThatSnazzyiPhoneGuy)
+- [Marques Brownlee](https://www.youtube.com/user/marquesbrownlee)
 
 ## Programming (web development)
 
