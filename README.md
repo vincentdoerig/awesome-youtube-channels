@@ -40,6 +40,11 @@ Somewhat sorted by those I like most (all are great though!).
 
 - [Fireship](https://www.youtube.com/c/AngularFirebase)
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+- [Ben Awad](https://www.youtube.com/c/BenAwad97)
+
+## Other
+
+- [NileRed](https://www.youtube.com/user/TheRedNile)
 
 ## Humour
 
