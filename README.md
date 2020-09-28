@@ -44,6 +44,7 @@ Somewhat sorted by those I like most (all are great though!).
 
 ## Other
 
+- [Yes Theory](https://www.youtube.com/user/PracProcrastination)
 - [NileRed](https://www.youtube.com/user/TheRedNile)
 
 ## Humour
